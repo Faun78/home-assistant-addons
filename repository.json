@@ -2,4 +2,9 @@
     "name": "Faun78's home-assistant Addons",
     "url": "https://github.com/Faun78/home-assistant-addons",
     "maintainer": "Faun78"
+
+    ,"addons": {
+        "hassio-axpert": "https://github.com/Faun78/hassio-axpert",
+        "axpert_cmd": "https://github.com/MindFreeze/axpert_cmd"
+    }
 }
