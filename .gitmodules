@@ -4,4 +4,6 @@
 	url = https://github.com/MindFreeze/axpert_cmd.git
 
 [submodule "hassio-axpert"]
+	path = hassio-axpert
+	url = https://github.com/Faun78/hassio-axpert
 	branch = main
