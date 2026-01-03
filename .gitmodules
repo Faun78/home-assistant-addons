@@ -3,3 +3,5 @@
 	path = axpert_cmd
 	url = https://github.com/MindFreeze/axpert_cmd.git
 
+[submodule "hassio-axpert"]
+	branch = main
